@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -221,3 +222,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+.env
+__pycache__/
+*.pyc
+ecommerce.db
+eval_results.csv
+.venv/
+>>>>>>> 72b4297 (Ask your data: NL to SQL with LangChain)

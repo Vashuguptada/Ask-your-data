@@ -1,0 +1,7 @@
+langchain-core
+langchain-groq        # default free provider (needs GROQ_API_KEY)
+# langchain-google-genai   # optional: LLM_PROVIDER=gemini (needs GOOGLE_API_KEY)
+# langchain-ollama         # optional: LLM_PROVIDER=ollama (fully local, no API key)
+python-dotenv
+pandas
+streamlit
