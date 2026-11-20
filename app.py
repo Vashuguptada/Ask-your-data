@@ -7,7 +7,7 @@ import sys
 from ask_data import ask
 
 st.set_page_config(page_title="Ask Your Data", page_icon="💬", layout="wide")
-st.title("💬 Ask Your Data")
+st.title("💬 Ask sYour Data")
 st.caption("Natural language → SQL → answer, on a synthetic fashion e-commerce database (LangChain + SQLite)")
 
 SAMPLES = ["What is the total revenue from delivered orders?",
