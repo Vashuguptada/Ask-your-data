@@ -1,5 +1,9 @@
-import streamlit as st
+import pathlib
 
+import streamlit as st
+from pathlib import Path
+import subprocess
+import sys
 from ask_data import ask
 
 st.set_page_config(page_title="Ask Your Data", page_icon="💬", layout="wide")
